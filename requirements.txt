@@ -1,0 +1,7 @@
+ipython
+ipywidgets
+llama-index
+transformers
+torch
+spacy
+neo4j
